@@ -1,5 +1,5 @@
 ![Screenshot](https://i.imgur.com/xYjeKWN.jpg)
-# Chromebot: Simple color-based triggerbot
+# Chromebot: Shitty color-based triggerbot
 
 ## Method
 
